@@ -12,17 +12,7 @@ body {
   line-height: 1.6;
   color: #333;
 }
-
-.div {
-  display: flex;
-  margin: 10px;
-}
-
 button {
+  padding: 10px 20px;
   margin: 10px;
-}
-.box {
-  width: 200px;
-  height: 200px;
-  background-color: red;
 }

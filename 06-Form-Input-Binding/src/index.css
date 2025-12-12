@@ -13,16 +13,9 @@ body {
   color: #333;
 }
 
-.div {
-  display: flex;
-  margin: 10px;
-}
-
+input,
 button {
+  padding: 10px 20px;
   margin: 10px;
-}
-.box {
-  width: 200px;
-  height: 200px;
-  background-color: red;
+  font-size: 15px;
 }

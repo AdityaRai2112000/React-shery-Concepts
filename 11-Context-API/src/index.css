@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: sans-serif;
+  line-height: 1.6;
+  color: #422a2a;
+}
+.light {
+  display: flex;
+  background-color: lightseagreen;
+  justify-content: space-between;
+  padding: 14px 20px;
+}
+.dark {
+  display: flex;
+  background-color: darkslategrey;
+  justify-content: space-between;
+  padding: 14px 20px;
+}
+
+.nav2 {
+  display: flex;
+  gap: 30px;
+}

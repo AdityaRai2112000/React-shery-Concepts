@@ -13,16 +13,16 @@ body {
   color: #333;
 }
 
-.div {
-  display: flex;
-  margin: 10px;
-}
-
 button {
+  padding: 10px 20px;
   margin: 10px;
 }
-.box {
-  width: 200px;
-  height: 200px;
-  background-color: red;
+h1 {
+  margin: 10px;
+  padding: 10px 80px;
+  background-color: gainsboro;
+  font-size: 100px;
+  width: fit-content;
+  border-radius: 5px;
+  border: none;
 }
